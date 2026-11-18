@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-pawnshop/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([5570882](https://github.com/aicore8/ai-pawnshop/commit/5570882d64691162a084a0d95cb8ab7cd1096c20))
+
 ## [0.1.5](https://github.com/aicore8/ai-pawnshop/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
