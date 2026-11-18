@@ -1,46 +1,46 @@
 # Changelog
 
-## [0.1.5](https://github.com/aifivem/ai-pawnshop/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-pawnshop/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([63a2496](https://github.com/aifivem/ai-pawnshop/commit/63a2496d8b9c5a71f18df1bed882cdf2c7548285))
+* install from the release zip ([63a2496](https://github.com/aicore8/ai-pawnshop/commit/63a2496d8b9c5a71f18df1bed882cdf2c7548285))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([59ee422](https://github.com/aifivem/ai-pawnshop/commit/59ee422693c2e2155aea7da1b1cc53d9aa953187))
+* build files are no longer in git, the release zip carries them ([59ee422](https://github.com/aicore8/ai-pawnshop/commit/59ee422693c2e2155aea7da1b1cc53d9aa953187))
 
-## [0.1.4](https://github.com/aifivem/ai-pawnshop/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-pawnshop/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([8694ba2](https://github.com/aifivem/ai-pawnshop/commit/8694ba204fea41141e52f342dbb08781d01c6867))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([8694ba2](https://github.com/aicore8/ai-pawnshop/commit/8694ba204fea41141e52f342dbb08781d01c6867))
 
-## [0.1.3](https://github.com/aifivem/ai-pawnshop/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-pawnshop/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([f0e1678](https://github.com/aifivem/ai-pawnshop/commit/f0e167845ba694e4632e2c5eb189ca236e4e75b6))
+* feature folders, side entries that only import, panel schema per tab ([f0e1678](https://github.com/aicore8/ai-pawnshop/commit/f0e167845ba694e4632e2c5eb189ca236e4e75b6))
 
-## [0.1.2](https://github.com/aifivem/ai-pawnshop/compare/v0.1.1...v0.1.2) (2026-10-31)
-
-
-### Miscellaneous Chores
-
-* rebuild with the current lib ([0d87af0](https://github.com/aifivem/ai-pawnshop/commit/0d87af076c94a9410a8f879e14d1daf7fd88abc9))
-
-## [0.1.1](https://github.com/aifivem/ai-pawnshop/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-pawnshop/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([57a4549](https://github.com/aifivem/ai-pawnshop/commit/57a45493abcea3fa2e10df9f899f6baafe5911a2))
-* rebuild with the current lib ([55ca971](https://github.com/aifivem/ai-pawnshop/commit/55ca9714c19bdd8c35529e0b347da22b57659787))
-* rebuild with the current lib ([d0afdf2](https://github.com/aifivem/ai-pawnshop/commit/d0afdf28156410d006c88afeb413e412fbf35d1e))
-* rebuild with the current lib ([af229ce](https://github.com/aifivem/ai-pawnshop/commit/af229ce73521f27afd7f5aad15558451be28fabb))
-* rebuild with the current lib ([8bbe8d7](https://github.com/aifivem/ai-pawnshop/commit/8bbe8d7d8bca307db760fc87926c3330a16b01bf))
-* rebuild with the current lib ([97a338a](https://github.com/aifivem/ai-pawnshop/commit/97a338a600457ae15f6804f7fce98a850208bbb2))
+* rebuild with the current lib ([0d87af0](https://github.com/aicore8/ai-pawnshop/commit/0d87af076c94a9410a8f879e14d1daf7fd88abc9))
+
+## [0.1.1](https://github.com/aicore8/ai-pawnshop/compare/v0.1.0...v0.1.1) (2026-10-31)
+
+
+### Miscellaneous Chores
+
+* rebuild with the current lib ([57a4549](https://github.com/aicore8/ai-pawnshop/commit/57a45493abcea3fa2e10df9f899f6baafe5911a2))
+* rebuild with the current lib ([55ca971](https://github.com/aicore8/ai-pawnshop/commit/55ca9714c19bdd8c35529e0b347da22b57659787))
+* rebuild with the current lib ([d0afdf2](https://github.com/aicore8/ai-pawnshop/commit/d0afdf28156410d006c88afeb413e412fbf35d1e))
+* rebuild with the current lib ([af229ce](https://github.com/aicore8/ai-pawnshop/commit/af229ce73521f27afd7f5aad15558451be28fabb))
+* rebuild with the current lib ([8bbe8d7](https://github.com/aicore8/ai-pawnshop/commit/8bbe8d7d8bca307db760fc87926c3330a16b01bf))
+* rebuild with the current lib ([97a338a](https://github.com/aicore8/ai-pawnshop/commit/97a338a600457ae15f6804f7fce98a850208bbb2))

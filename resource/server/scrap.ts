@@ -11,8 +11,8 @@ import {
   progressFor,
   vehicleNearPlayer,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { fail, randomInt, readId, readText } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, randomInt, readId, readText } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/pawn";
 import { settings, yards } from "./content";

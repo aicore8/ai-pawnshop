@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { scrapyardsFile, scrapyardsTab } from "./scrapyards";
 import { settingsFile, settingsTab } from "./settings";
 import { shopsFile, shopsTab } from "./shops";

@@ -5,7 +5,7 @@ import {
   menu,
   nearestVehicle,
   notify,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS, toOffers } from "common/pawn";
 
